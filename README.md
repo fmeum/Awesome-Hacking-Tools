@@ -440,6 +440,7 @@ ________________________________________________________________________________
 * __isr-form	1.0__	Simple html parsing tool that extracts all form related information and generates reports of the data. Allows for quick analyzing of data.	http://www.infobyte.com.ar/
 * __jad	1.5.8e__	Java decompiler	http://www.varaneckas.com/jad
 * __javasnoop	1.1__	A tool that lets you intercept methods, alter data and otherwise hack Java applications running on your computer	https://code.google.com/p/javasnoop/
+* __jazzer 0.9.0__ A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications. https://github.com/CodeIntelligenceTesting/jazzer
 * __jboss-autopwn	1.3bc2d29__	A JBoss script for obtaining remote shell access.	https://github.com/SpiderLabs/jboss-autopwn
 * __jbrofuzz	2.5__	Web application protocol fuzzer that emerged from the needs of penetration testing.	http://sourceforge.net/projects/jbrofuzz/
 * __jbrute	0.99__	Open Source Security tool to audit hashed passwords.	http://sourceforge.net/projects/jbrute/
